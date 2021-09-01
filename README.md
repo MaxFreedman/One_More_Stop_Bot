@@ -8,3 +8,4 @@ Add other relevant features to the bot
     giveaway setup
     qotd
     starboard
+    photographer feature per each da
